@@ -20,7 +20,7 @@ Bibliotecas: curses, urllib.parse, collections
 ### Instalação
 Clone o repositório:
 
-``git clone https://github.com/seuusuario/LinkZilla.git``
+``git clone https://github.com/Thome07/LinkZilla``
 ``cd LinkZilla``
 
 ### Executando a Ferramenta
